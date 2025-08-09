@@ -1,6 +1,8 @@
-vendor/
+/flights_table/vendor/
+/flights_table/.env
 
-.env
+/loja/vendor/
+/loja/.env
 
 node_modules/
 
